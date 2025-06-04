@@ -9,8 +9,8 @@
 #### Resume : http://davubin.s3-website-us-east-1.amazonaws.com
 #### medium :https://medium.com/@davuluribindu23
 
-# 👋 Hi, I'm [DavuluriBindu]  
-🌱 Transitioning from QA & Software Development to DevOps | AWS | CI/CD | Docker | Terraform
+# 👋 Hi, I'm DavuluriBindu
+🌱 Transitioning from QA to DevOps | AWS | CI/CD | Docker | Terraform
 
 ---
 
@@ -41,14 +41,7 @@
 
 ### 🚧 My DevOps Projects
 
-| Project | Description | Tools |
-|--------|-------------|--------|
-| [`flask-cicd-aws`](https://github.com/yourusername/flask-cicd-aws) | CI/CD pipeline deploying Flask app to AWS | GitHub Actions, Docker, EC2 |
-| [`terraform-aws-demo`](https://github.com/yourusername/terraform-aws-demo) | Infra setup using Terraform | Terraform, AWS |
-| [`ansible-nginx-playbook`](https://github.com/yourusername/ansible-nginx-playbook) | Auto install & configure NGINX | Ansible, Ubuntu |
-| [`k8s-lab`](https://github.com/yourusername/k8s-lab) | Simulated multi-node cluster | Kubernetes, Minikube |
 
----
 
 ### 📚 Currently Learning
 
@@ -62,7 +55,7 @@
 
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 🧰 [GitHub Projects](https://github.com/yourusername)
-- 📧 [Email Me](mailto:davuluribindu995.com)
+- 📧 (mailto:davuluribindu995.com)
 
 ---
 ⚡ “Automate the boring stuff, secure the essential stuff, monitor everything.”
