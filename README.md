@@ -1,5 +1,3 @@
-# Devops
-
 # 👋 Hi, I'm DavuluriBindu
 🌱 Transitioning from QA to DevOps | AWS | CI/CD | Docker | Terraform
 
