@@ -7,3 +7,4 @@
 #### Education :B.Tech(EEE 2018-2022)
 #### work experience: * zensar tech:jr software engineer (2022-2023) * amazon : Quality associate (2023-present)
 #### Resume : http://davubin.s3-website-us-east-1.amazonaws.com
+#### medium :https://medium.com/@davuluribindu23
