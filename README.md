@@ -44,7 +44,7 @@
 ### 📫 Contact Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bindu-davuluri-875633190/)
-- 🧰 [GitHub Projects](https://github.com/yourusername)
+- 🧰 [GitHub Projects](https://github.com/DavuluriBindu)
 - 📧 [Email Me](mailto:davuluribindu995.com)
 - Me [Medium blog](https://medium.com/@davuluribindu23)
 
