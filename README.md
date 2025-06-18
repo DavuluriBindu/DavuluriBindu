@@ -24,9 +24,6 @@
 **Scripting & Languages**  
 `Python (basic)` `Bash` `Java`  
 
-**Monitoring**  
-`Prometheus` `Grafana`
-
 ---
 
 ### 🚧 My DevOps Projects
