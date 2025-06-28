@@ -39,7 +39,7 @@
 
 ## 📖 Blogs
 📝 I'm writing blogs that explain DevOps in a simple, beginner-friendly way:
-- Me [Medium blog](https://medium.com/@davuluribindu23)
+- Me [Medium blog](https://medium.com/@davuluribindu)
 
 
 ### 📫 Contact Me
