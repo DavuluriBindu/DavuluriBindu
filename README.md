@@ -33,11 +33,11 @@
 
 ---
 
-### 🚧 My DevOps Projects
+### 🚧 My DevOps Journey 
  🚀 Terraform + Ansible + Docker + AWS
  Currently working on: Deploying full-stack e-commerce app 
  - Provisioned AWS resources using Terraform  
-- Used Ansible to configure and deploy a Node.js app  
+- Used Ansible to configure and deploy  app  
 - Automated build and deploy with GitHub Actions
 
 
