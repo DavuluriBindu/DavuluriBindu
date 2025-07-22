@@ -3,7 +3,6 @@
 </div>
 
 # 👋 Hi, I'm DavuluriBindu
-🎯 **Aspiring DevOps Engineer** 
  
 
 ---
