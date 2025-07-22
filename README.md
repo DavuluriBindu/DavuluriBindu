@@ -4,9 +4,11 @@
 
 # 👋 Hi, I'm DavuluriBindu
 🎯 **Aspiring DevOps Engineer** 
-🌱 Transitioning into DevOps 
+ 
 
 ---
+### professional summary
+Aspiring DevOps Engineer with hands-on experience in designing and automating cloud infrastructure using AWS, Terraform, Ansible, Docker, and CI/CD tools. Strong foundation in Linux system administration, process and network management, and shell scripting including sudo access, key-based authentication, and package/service management. Currently working as a Quality Associate at Amazon (1.5+ years), and previously contributed to backend API development as a Jr. Software Engineer at Zensar Technologies. Skilled in Infrastructure as Code, DNS setup, domain migration to AWS, and DevOps best practices gained through real-world projects. Proficient in YAML and experienced with variables, loops, and conditions across Shell, Ansible, and Terraform.
 
 ### 👨‍💻 About Me
 
@@ -14,7 +16,7 @@
 - 💻 Previously worked as a **jr Software Engineer at Zensar Technologies**
 - 🌱 Learning DevOps tools like **Terraform, Docker, Ansible, and AWS**
 - 🛠️ Building real-world infrastructure projects on **GitHub**
-- 📘 Writing beginner-friendly blogs to explain what I learn (Crontab, Ansible, Terraform, etc.)
+- 📘 Writing beginner-friendly blogs to explain what I learn (shell, Ansible, Terraform, etc.)
 - 💡 Open to collaborations and learning opportunities
 - 📖 Education :**R.V.R & JC  B.Tech (EEE 2018-2022)**
 
@@ -33,12 +35,13 @@
 
 ---
 
-### 🚧 My DevOps Journey 
- 🚀 Terraform + Ansible + Docker + AWS
- Currently working on: Deploying full-stack e-commerce app 
- - Provisioned AWS resources using Terraform  
-- Used Ansible to configure and deploy  app  
-- Automated build and deploy with GitHub Actions
+### 🚧 Freelance DevOps Projects 
+•	Provisioned EC2 instances using Terraform with automated security groups, VPC, and Route53 DNS records.
+•	Used Ansible to install and configure applications on EC2.
+•	Built and deployed Docker containers; basic Kubernetes pod deployments.
+•	Wrote Shell scripts to automate AWS CLI tasks like instance creation and DNS setup.
+•	Practiced CI/CD using GitHub Actions for Terraform and application deployment pipelines.
+
 
 
 ## 📖 Blogs
