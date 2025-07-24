@@ -4,7 +4,6 @@
 
 # 👋 Hi, I'm DavuluriBindu
  
-
 ---
 ### professional summary
 Aspiring DevOps Engineer with hands-on experience in designing and automating cloud infrastructure using AWS, Terraform, Ansible, Docker, and CI/CD tools. Strong foundation in Linux system administration, process and network management, and shell scripting including sudo access, key-based authentication, and package/service management. Currently working as a Quality Associate at Amazon (1.5+ years), and previously contributed to backend API development as a Jr. Software Engineer at Zensar Technologies. Skilled in Infrastructure as Code, DNS setup, domain migration to AWS, and DevOps best practices gained through real-world projects. Proficient in YAML and experienced with variables, loops, and conditions across Shell, Ansible, and Terraform.
@@ -42,20 +41,19 @@ Aspiring DevOps Engineer with hands-on experience in designing and automating cl
 •	Wrote Shell scripts to automate AWS CLI tasks like instance creation and DNS setup.
 •	Practiced CI/CD using GitHub Actions for Terraform and application deployment pipelines.
 
-
+---
 
 ## 📖 Blogs
 📝 I'm writing blogs that explain DevOps in a simple, beginner-friendly way:
 - Me [Medium blog](https://medium.com/@davuluribindu)
 
+---
 
 ### 📫 Contact Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bindu-davuluri-875633190/)
 - 🧰 [GitHub Projects](https://github.com/DavuluriBindu)
 - 📧 davuluribindu995@gmail.com
-
-
 
 ---
 ⚡**"Learning one command at a time, one cloud at a time."**
