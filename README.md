@@ -1,4 +1,4 @@
-<div align="center">
+<img width="227" height="196" alt="image" src="https://github.com/user-attachments/assets/5388d14a-81ea-4a01-8de0-df737d01e01e" /><div align="center">
   <img src="git_Banner.png" alt="GitHub Banner" width="1000"/>
 </div>
 
@@ -15,7 +15,9 @@ Aspiring DevOps Engineer with hands-on experience in designing and automating cl
 - 💻 Previously worked as a **jr Software Engineer at Zensar Technologies**
 - 🌱 Learning DevOps tools like **Terraform, Docker, Ansible, and AWS**
 - 🛠️ Building real-world infrastructure projects on **GitHub**
-- 📘 Writing beginner-friendly blogs to explain what I learn (shell, Ansible, Terraform, etc.)
+- ✍️ Writing beginner-friendly technical blogs to simplify topics like Shell scripting, Ansible roles, Terraform modules, and more
+- 🔗![TestGIF](https://github.com/user-attachments/assets/0e4b2be0-0753-4748-854c-bbbb115fcbb0)
+ On LinkedIn, I share what I break and how I fix it while learning DevOps — turning mistakes into helpful insights for others.
 - 💡 Open to collaborations and learning opportunities
 - 📖 Education :**R.V.R & JC  B.Tech (EEE 2018-2022)**
 
