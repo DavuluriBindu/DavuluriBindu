@@ -1,4 +1,4 @@
-<img width="227" height="196" /><div align="center">
+<div align="center">
   <img src="git_Banner.png" alt="GitHub Banner" width="1000"/>
 </div>
 
