@@ -53,7 +53,7 @@ Aspiring DevOps Engineer with hands-on experience in designing and automating cl
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bindu-davuluri-875633190/)
 - 🧰 [GitHub Projects](https://github.com/DavuluriBindu)
-- 📧 davuluribindu995@gmail.com
+- 📧 davuluribindu23@gmail.com
 
 ---
 ⚡**"Learning one command at a time, one cloud at a time."**
