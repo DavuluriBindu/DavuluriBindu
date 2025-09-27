@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="git_Banner.png" alt="GitHub Banner" width="1000"/>
+  <img src="https://github.com/DavuluriBindu/DavuluriBindu/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png" alt="GitHub Banner" width="1000"/>
 </div>
 
 # 👋 Hi, I'm DavuluriBindu
