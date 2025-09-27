@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="" alt="GitHub Banner" width="800"/>
+  <img src="git_Banner.png" alt="GitHub Banner" width="1000"/>
 </div>
-# 👋 Hi, I'm DavuluriBindu
-🎯 **Aspiring DevOps Engineer** 
-🌱 Transitioning into DevOps 
 
+# 👋 Hi, I'm DavuluriBindu
+ 
 ---
+### professional summary
+Aspiring DevOps Engineer with hands-on experience in designing and automating cloud infrastructure using AWS, Terraform, Ansible, Docker, and CI/CD tools. Strong foundation in Linux system administration, process and network management, and shell scripting including sudo access, key-based authentication, and package/service management. Currently working as a Quality Associate at Amazon (1.5+ years), and previously contributed to backend API development as a Jr. Software Engineer at Zensar Technologies. Skilled in Infrastructure as Code, DNS setup, domain migration to AWS, and DevOps best practices gained through real-world projects. Proficient in YAML and experienced with variables, loops, and conditions across Shell, Ansible, and Terraform.
 
 ### 👨‍💻 About Me
 
@@ -13,7 +14,8 @@
 - 💻 Previously worked as a **jr Software Engineer at Zensar Technologies**
 - 🌱 Learning DevOps tools like **Terraform, Docker, Ansible, and AWS**
 - 🛠️ Building real-world infrastructure projects on **GitHub**
-- 📘 Writing beginner-friendly blogs to explain what I learn (Crontab, Ansible, Terraform, etc.)
+- ✍️ Writing beginner-friendly technical blogs to simplify topics like Shell scripting, Ansible roles, Terraform modules, and more
+- 🔗 On LinkedIn, I share what I break and how I fix it while learning DevOps — turning mistakes into helpful insights for others.
 - 💡 Open to collaborations and learning opportunities
 - 📖 Education :**R.V.R & JC  B.Tech (EEE 2018-2022)**
 
@@ -32,26 +34,26 @@
 
 ---
 
-### 🚧 My DevOps Projects
- 🚀 Terraform + Ansible + Docker + AWS
- Currently working on: Deploying full-stack e-commerce app 
- - Provisioned AWS resources using Terraform  
-- Used Ansible to configure and deploy a Node.js app  
-- Automated build and deploy with GitHub Actions
+### 🚧 Freelance DevOps Projects 
+•	Provisioned EC2 instances using Terraform with automated security groups, VPC, and Route53 DNS records.
+•	Used Ansible to install and configure applications on EC2.
+•	Built and deployed Docker containers; basic Kubernetes pod deployments.
+•	Wrote Shell scripts to automate AWS CLI tasks like instance creation and DNS setup.
+•	Practiced CI/CD using GitHub Actions for Terraform and application deployment pipelines.
 
+---
 
 ## 📖 Blogs
 📝 I'm writing blogs that explain DevOps in a simple, beginner-friendly way:
 - Me [Medium blog](https://medium.com/@davuluribindu)
 
+---
 
 ### 📫 Contact Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bindu-davuluri-875633190/)
 - 🧰 [GitHub Projects](https://github.com/DavuluriBindu)
-- 📧 davuluribindu995@gmail.com
-
-
+- 📧 davuluribindu23@gmail.com
 
 ---
 ⚡**"Learning one command at a time, one cloud at a time."**
