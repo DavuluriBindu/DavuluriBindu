@@ -12,7 +12,7 @@ Aspiring DevOps Engineer with hands-on experience in designing and automating cl
 
 - 💼 Currently working as a **Quality Associate at Amazon**
 - 💻 Previously worked as a **jr Software Engineer at Zensar Technologies**
-- 🌱 Learning DevOps tools like **Terraform, Docker, Ansible, and AWS**
+- 🌱 DevOps tools like **Terraform,kubernetes, Docker, Ansible, and AWS**
 - 🛠️ Building real-world infrastructure projects on **GitHub**
 - ✍️ Writing beginner-friendly technical blogs to simplify topics like Shell scripting, Ansible roles, Terraform modules, and more
 - 🔗 On LinkedIn, I share what I break and how I fix it while learning DevOps — turning mistakes into helpful insights for others.
@@ -34,7 +34,7 @@ Aspiring DevOps Engineer with hands-on experience in designing and automating cl
 
 ---
 
-### 🚧 Freelance DevOps Projects 
+### 🚧 DevOps Projects 
 •	Provisioned EC2 instances using Terraform with automated security groups, VPC, and Route53 DNS records.
 •	Used Ansible to install and configure applications on EC2.
 •	Built and deployed Docker containers; basic Kubernetes pod deployments.
